@@ -253,7 +253,8 @@ async def on_message(message):
                                    "_r6 <username> for r6s stats \n"
                                    "_spam <username> <1-10 number of messages> (if no number is provided it will be set to 1) \n"
                                    #"_head <name> searches for minecraft head commands \n"
-                                   "_skin <username> download skin from user ```")
+                                   "_skin <username> download skin from user \n\n"
+                                   "https://github.com/l0l67/justarandombot```")
                                    #"_chat to chat with me(alpha) \n"
 
 #send pic
